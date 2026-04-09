@@ -3,7 +3,7 @@
 > **Base de diseño y arquitectura de alto rendimiento** para portales y sitios corporativos.
 > Construida sobre la potente combinación de **Astro + Vue 3**, estilizada con **Tailwind CSS**, animada con **GSAP/Motion**, y documentada de principio a fin en **Storybook**.
 
-[![Deploy Storybook](https://github.com/<YOUR_USER>/<YOUR_REPO>/actions/workflows/deploy-storybook.yml/badge.svg)](https://github.com/<YOUR_USER>/<YOUR_REPO>/actions/workflows/deploy-storybook.yml)
+[![Deploy Storybook](https://github.com/lrangela/portal-ui-base/actions/workflows/deploy-storybook.yml/badge.svg)](https://lrangela.github.io/portal-ui-base/)
 
 ---
 
