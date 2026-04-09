@@ -1,0 +1,82 @@
+:root {
+  /* COLORS */
+  --color-primary: #016b6b;
+  --color-secondary: #0e2a47;
+  --color-accent: #56d4c9;
+  --color-background: #f5f7f8;
+  --color-surface: #ffffff;
+  --color-text: #102a43;
+  --color-text-muted: #486581;
+  --color-border: #d9e2ec;
+
+  /* TYPOGRAPHY */
+  --font-sans: "Inter", sans-serif;
+  --font-heading: "Manrope", sans-serif;
+  --font-size-base: 16px;
+  --font-size-h1: 56px;
+  --font-size-h2: 40px;
+  --font-size-h3: 28px;
+  --font-size-button: 16px;
+  --letter-spacing: 0px;
+  --line-height-base: 1.6;
+
+  /* SPACING */
+  --space-section-y: 96px;
+  --space-section-x: 24px;
+  --space-stack: 24px;
+  --space-card-padding: 24px;
+  --space-button-y: 14px;
+  --space-button-x: 20px;
+
+  /* BORDER */
+  --radius-sm: 12px;
+  --radius-md: 18px;
+  --radius-lg: 28px;
+  --radius-pill: 999px;
+
+  /* SHADOW */
+  --shadow-card: 0 18px 48px rgba(15, 23, 42, 0.12);
+  --shadow-button: 0 10px 30px rgba(1, 107, 107, 0.25);
+
+  /* LAYOUT */
+  --layout-content-max: 1200px;
+  --layout-hero-max: 760px;
+  --layout-card-min: 260px;
+
+  /* COMPONENT TOKENS */
+  --button-primary-bg: #016b6b;
+  --button-primary-text: #ffffff;
+  --button-secondary-bg: #0e2a47;
+  --button-secondary-text: #ffffff;
+  --button-outline-bg: rgba(255, 255, 255, 0.92);
+  --button-outline-text: #102a43;
+  --button-ghost-text: #102a43;
+
+  --badge-default-bg: rgba(1, 107, 107, 0.12);
+  --badge-default-text: #016b6b;
+  --badge-success-bg: #e7f9f1;
+  --badge-success-text: #0d7a46;
+  --badge-warning-bg: #fff4dd;
+  --badge-warning-text: #9a5a00;
+  --badge-danger-bg: #feeceb;
+  --badge-danger-text: #b42318;
+  --badge-neutral-bg: rgba(255, 255, 255, 0.92);
+  --badge-neutral-text: #486581;
+  --badge-inverse-bg: rgba(255, 255, 255, 0.94);
+  --badge-inverse-text: #0e2a47;
+
+  --card-surface-bg: rgba(255, 255, 255, 0.92);
+  --card-primary-bg: linear-gradient(135deg, rgba(1, 107, 107, 0.96), rgba(14, 42, 71, 0.84));
+  --card-secondary-bg: rgba(14, 42, 71, 0.88);
+  --card-border-color: #d9e2ec;
+
+  /* BACKGROUND STYLE */
+  --background-type: solid;
+  --background-solid: #f5f7f8;
+  --background-gradient-from: #0e2a47;
+  --background-gradient-to: #016b6b;
+  --background-image-url: "";
+  --background-image-overlay: linear-gradient(180deg, rgba(14, 42, 71, 0.58), rgba(1, 107, 107, 0.32));
+  --background-image: none;
+  --background-attachment: scroll;
+}
