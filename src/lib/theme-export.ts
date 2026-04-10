@@ -1,5 +1,5 @@
-import { DEFAULT_THEME, ThemeConfig, downloadTheme, parseTheme, serializeTheme } from "./theme";
-
+import type { ThemeConfig } from "./theme";
+import { DEFAULT_THEME, downloadTheme, parseTheme, serializeTheme } from "./theme";
 export function exportTheme(theme: ThemeConfig = DEFAULT_THEME) {
   downloadTheme(theme);
 }
