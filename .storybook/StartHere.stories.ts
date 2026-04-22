@@ -8,7 +8,20 @@ const meta: Meta = {
 export default meta;
 type Story = StoryObj;
 
-const storyUrl = (id: string) => `?path=/story/${encodeURIComponent(id)}`;
+const storyUrl = (id: string) => {
+  const storyPath = `/story/${encodeURIComponent(id)}`;
+
+  if (typeof window === 'undefined') {
+    return `/?path=${storyPath}`;
+  }
+
+  try {
+    const topLocation = window.top?.location ?? window.location;
+    return `${topLocation.pathname}?path=${storyPath}`;
+  } catch {
+    return `/?path=${storyPath}`;
+  }
+};
 
 const pageStyle = `
   min-height:100vh;
