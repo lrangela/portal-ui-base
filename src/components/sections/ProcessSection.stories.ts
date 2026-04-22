@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import ProcessSection from './ProcessSection.vue';
 
 const meta: Meta<typeof ProcessSection> = {
-  title: 'Sections/ProcessSection',
+  title: '🧩 Piezas del Sitio/Secciones de Página/Proceso',
   component: ProcessSection,
   tags: ['autodocs'],
 };

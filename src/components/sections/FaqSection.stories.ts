@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import FaqSection from './FaqSection.vue';
 
 const meta: Meta<typeof FaqSection> = {
-  title: 'Sections/FaqSection',
+  title: '🧩 Piezas del Sitio/Secciones de Página/Preguntas Frecuentes',
   component: FaqSection,
   tags: ['autodocs'],
 };

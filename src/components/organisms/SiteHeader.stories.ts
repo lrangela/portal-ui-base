@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import SiteHeader from './SiteHeader.vue';
 
 const meta: Meta<typeof SiteHeader> = {
-  title: 'Organisms/SiteHeader',
+  title: '🧩 Piezas del Sitio/Navegación/Header',
   component: SiteHeader,
   tags: ['autodocs'],
 };

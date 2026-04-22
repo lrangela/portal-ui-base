@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import SectionHeader from './SectionHeader.vue';
 
 const meta: Meta<typeof SectionHeader> = {
-  title: 'Molecules/SectionHeader',
+  title: '🧩 Piezas del Sitio/Textos/Encabezado de Sección',
   component: SectionHeader,
   tags: ['autodocs'],
   args: {

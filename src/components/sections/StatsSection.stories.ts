@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import StatsSection from './StatsSection.vue';
 
 const meta: Meta<typeof StatsSection> = {
-  title: 'Sections/StatsSection',
+  title: '🧩 Piezas del Sitio/Secciones de Página/Métricas',
   component: StatsSection,
   tags: ['autodocs'],
 };

@@ -6,7 +6,7 @@ import StatsSection from '../src/components/sections/StatsSection.vue';
 import { globalsToTheme } from '../src/lib/theme';
 
 const meta: Meta = {
-  title: 'Pages/Home Mock',
+  title: '📐 Plantillas Completas/Página de Inicio',
   parameters: { layout: 'fullscreen' },
 };
 export default meta;

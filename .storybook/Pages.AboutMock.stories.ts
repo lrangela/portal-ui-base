@@ -10,7 +10,7 @@ import SiteFooter from '../src/components/organisms/SiteFooter.vue';
 import { globalsToTheme } from '../src/lib/theme';
 
 const meta: Meta = {
-  title: 'Pages/About Mock',
+  title: '📐 Plantillas Completas/Página Nosotros',
   parameters: { layout: 'fullscreen' },
 };
 export default meta;

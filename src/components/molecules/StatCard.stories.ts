@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import StatCard from './StatCard.vue';
 
 const meta: Meta<typeof StatCard> = {
-  title: 'Molecules/StatCard',
+  title: '🧩 Piezas del Sitio/Tarjetas/Métrica',
   component: StatCard,
   tags: ['autodocs'],
   args: {

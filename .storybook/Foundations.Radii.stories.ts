@@ -1,7 +1,7 @@
 import type { Meta, StoryObj } from '@storybook/vue3';
 
 const meta: Meta = {
-  title: 'Foundations/Radii',
+  title: '🎨 Diseño Global/Bordes Redondeados',
   parameters: { layout: 'fullscreen' },
 };
 export default meta;

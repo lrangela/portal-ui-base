@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import TestimonialsCard from './TestimonialsCard.vue';
 
 const meta: Meta<typeof TestimonialsCard> = {
-  title: 'Molecules/TestimonialsCard',
+  title: '🧩 Piezas del Sitio/Tarjetas/Testimonio',
   component: TestimonialsCard,
   tags: ['autodocs'],
   args: {

@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import WhyChooseUsSection from './WhyChooseUsSection.vue';
 
 const meta: Meta<typeof WhyChooseUsSection> = {
-  title: 'Sections/WhyChooseUsSection',
+  title: '🧩 Piezas del Sitio/Secciones de Página/Por Qué Elegirnos',
   component: WhyChooseUsSection,
   tags: ['autodocs'],
 };

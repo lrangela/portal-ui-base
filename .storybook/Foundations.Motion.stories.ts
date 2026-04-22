@@ -6,7 +6,7 @@ import MotionSlider from '../src/components/organisms/MotionSlider.vue';
 import LogoCarousel from '../src/components/organisms/LogoCarousel.vue';
 
 const meta: Meta = {
-  title: 'Foundations/Motion',
+  title: '🧩 Piezas del Sitio/Iconos y Movimiento/Movimiento',
   parameters: { layout: 'fullscreen' },
 };
 export default meta;

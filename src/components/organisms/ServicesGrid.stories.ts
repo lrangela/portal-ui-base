@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import ServicesGrid from './ServicesGrid.vue';
 
 const meta: Meta<typeof ServicesGrid> = {
-  title: 'Organisms/ServicesGrid',
+  title: '🧩 Piezas del Sitio/Tarjetas/Grilla de Servicios',
   component: ServicesGrid,
   tags: ['autodocs'],
   args: {

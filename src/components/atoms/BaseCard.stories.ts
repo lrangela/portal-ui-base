@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import BaseCard from './BaseCard.vue';
 
 const meta: Meta<typeof BaseCard> = {
-  title: 'Atoms/BaseCard',
+  title: '🧩 Piezas del Sitio/Tarjetas/Tarjeta Base',
   component: BaseCard,
   tags: ['autodocs'],
   args: {

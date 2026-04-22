@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import HeroSection from './HeroSection.vue';
 
 const meta: Meta<typeof HeroSection> = {
-  title: 'Sections/HeroSection',
+  title: '🧩 Piezas del Sitio/Secciones de Página/Hero',
   component: HeroSection,
   tags: ['autodocs'],
   parameters: {

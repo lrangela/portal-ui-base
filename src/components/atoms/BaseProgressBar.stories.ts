@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import BaseProgressBar from './BaseProgressBar.vue';
 
 const meta: Meta<typeof BaseProgressBar> = {
-  title: 'Atoms/BaseProgressBar',
+  title: '🧩 Piezas del Sitio/Iconos y Movimiento/Progreso',
   component: BaseProgressBar,
   tags: ['autodocs'],
   args: { value: 68, label: 'Cargando recursos', tone: 'primary', animated: true, showValue: true },

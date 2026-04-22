@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import BaseText from './BaseText.vue';
 
 const meta: Meta<typeof BaseText> = {
-  title: 'Atoms/BaseText',
+  title: '🧩 Piezas del Sitio/Textos/Párrafos',
   component: BaseText,
   tags: ['autodocs'],
   args: {

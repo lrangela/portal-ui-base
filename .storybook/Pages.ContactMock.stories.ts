@@ -8,7 +8,7 @@ import SiteFooter from '../src/components/organisms/SiteFooter.vue';
 import { globalsToTheme } from '../src/lib/theme';
 
 const meta: Meta = {
-  title: 'Pages/Contact Mock',
+  title: '📐 Plantillas Completas/Página Contacto',
   parameters: { layout: 'fullscreen' },
 };
 export default meta;

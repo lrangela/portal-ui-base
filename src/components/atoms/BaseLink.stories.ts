@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import BaseLink from './BaseLink.vue';
 
 const meta: Meta<typeof BaseLink> = {
-  title: 'Atoms/BaseLink',
+  title: '🧩 Piezas del Sitio/Botones y Enlaces/Enlaces',
   component: BaseLink,
   tags: ['autodocs'],
   args: { label: 'Leer mas', href: '#', tone: 'primary', underline: false },

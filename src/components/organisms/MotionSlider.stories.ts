@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import MotionSlider from './MotionSlider.vue';
 
 const meta: Meta<typeof MotionSlider> = {
-  title: 'Organisms/MotionSlider',
+  title: '🧩 Piezas del Sitio/Iconos y Movimiento/Slider',
   component: MotionSlider,
   tags: ['autodocs'],
 };

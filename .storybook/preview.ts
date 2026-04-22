@@ -21,6 +21,18 @@ function createGlobalType(name: string, defaultValue: unknown) {
 
 const preview: Preview = {
   initialGlobals: initialThemeGlobals,
+  parameters: {
+    options: {
+      storySort: {
+        order: [
+          '🚀 Empezar Aquí',
+          '🎨 Diseño Global',
+          '🧩 Piezas del Sitio',
+          '📐 Plantillas Completas',
+        ],
+      },
+    },
+  },
   globalTypes: Object.fromEntries(
     Object.entries(initialThemeGlobals).map(([key, value]) => [key, createGlobalType(key, value)]),
   ),

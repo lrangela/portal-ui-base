@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import BaseBadge from './BaseBadge.vue';
 
 const meta: Meta<typeof BaseBadge> = {
-  title: 'Atoms/BaseBadge',
+  title: '🧩 Piezas del Sitio/Tarjetas/Badges',
   component: BaseBadge,
   tags: ['autodocs'],
 };

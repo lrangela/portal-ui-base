@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import TestimonialsSection from './TestimonialsSection.vue';
 
 const meta: Meta<typeof TestimonialsSection> = {
-  title: 'Sections/TestimonialsSection',
+  title: '🧩 Piezas del Sitio/Secciones de Página/Testimonios',
   component: TestimonialsSection,
   tags: ['autodocs'],
 };

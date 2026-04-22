@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import ContactForm from './ContactForm.vue';
 
 const meta: Meta<typeof ContactForm> = {
-  title: 'Organisms/ContactForm',
+  title: '🧩 Piezas del Sitio/Formularios/Formulario de Contacto',
   component: ContactForm,
   tags: ['autodocs'],
   args: { loading: false },

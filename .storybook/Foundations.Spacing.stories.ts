@@ -1,7 +1,7 @@
 import type { Meta, StoryObj } from '@storybook/vue3';
 
 const meta: Meta = {
-  title: 'Foundations/Spacing',
+  title: '🎨 Diseño Global/Espaciado',
   parameters: { layout: 'fullscreen' },
 };
 export default meta;

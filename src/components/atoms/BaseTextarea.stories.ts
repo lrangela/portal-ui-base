@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import BaseTextarea from './BaseTextarea.vue';
 
 const meta: Meta<typeof BaseTextarea> = {
-  title: 'Atoms/BaseTextarea',
+  title: '🧩 Piezas del Sitio/Formularios/Área de Texto',
   component: BaseTextarea,
   tags: ['autodocs'],
   args: {

@@ -1,7 +1,7 @@
 import type { Meta, StoryObj } from '@storybook/vue3';
 
 const meta: Meta = {
-  title: 'Foundations/Typography',
+  title: '🎨 Diseño Global/Colores y Tipografía/Tipografía',
   parameters: { layout: 'fullscreen' }
 };
 export default meta;

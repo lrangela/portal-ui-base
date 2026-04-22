@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import BaseSpinner from './BaseSpinner.vue';
 
 const meta: Meta<typeof BaseSpinner> = {
-  title: 'Atoms/BaseSpinner',
+  title: '🧩 Piezas del Sitio/Iconos y Movimiento/Carga',
   component: BaseSpinner,
   tags: ['autodocs'],
   args: { size: 24, tone: 'primary', speed: '0.9s', thickness: 2, label: 'Loading' },

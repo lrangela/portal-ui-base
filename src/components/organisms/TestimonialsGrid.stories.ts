@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import TestimonialsGrid from './TestimonialsGrid.vue';
 
 const meta: Meta<typeof TestimonialsGrid> = {
-  title: 'Organisms/TestimonialsGrid',
+  title: '🧩 Piezas del Sitio/Tarjetas/Grilla de Testimonios',
   component: TestimonialsGrid,
   tags: ['autodocs'],
   args: {

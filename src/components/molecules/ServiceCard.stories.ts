@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import ServiceCard from './ServiceCard.vue';
 
 const meta: Meta<typeof ServiceCard> = {
-  title: 'Molecules/ServiceCard',
+  title: '🧩 Piezas del Sitio/Tarjetas/Tarjeta de Servicio',
   component: ServiceCard,
   tags: ['autodocs'],
   args: {

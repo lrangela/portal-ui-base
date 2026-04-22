@@ -8,7 +8,7 @@ import BaseCard from '../src/components/atoms/BaseCard.vue';
 import BaseSpinner from '../src/components/atoms/BaseSpinner.vue';
 
 const meta: Meta = {
-  title: 'Foundations/Iconography',
+  title: '🧩 Piezas del Sitio/Iconos y Movimiento/Iconos',
   parameters: { layout: 'fullscreen' },
 };
 export default meta;

@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import BaseInput from './BaseInput.vue';
 
 const meta: Meta<typeof BaseInput> = {
-  title: 'Atoms/BaseInput',
+  title: '🧩 Piezas del Sitio/Formularios/Campo de Texto',
   component: BaseInput,
   tags: ['autodocs'],
   args: {

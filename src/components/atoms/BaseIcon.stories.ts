@@ -3,7 +3,7 @@ import BaseIcon from './BaseIcon.vue';
 import { CURATED_LUCIDE_ICONS } from '../../lib/icons';
 
 const meta: Meta<typeof BaseIcon> = {
-  title: 'Atoms/BaseIcon',
+  title: '🧩 Piezas del Sitio/Iconos y Movimiento/Iconos Base',
   component: BaseIcon,
   tags: ['autodocs'],
   args: { name: 'Sparkles', size: 24, strokeWidth: 1.8, tone: 'primary', rounded: false },

@@ -1,7 +1,7 @@
 import type { Meta, StoryObj } from '@storybook/vue3';
 
 const meta: Meta = {
-  title: 'Foundations/Shadows',
+  title: '🎨 Diseño Global/Sombras',
   parameters: { layout: 'fullscreen' },
 };
 export default meta;

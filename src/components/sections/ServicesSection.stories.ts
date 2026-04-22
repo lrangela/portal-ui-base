@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import ServicesSection from './ServicesSection.vue';
 
 const meta: Meta<typeof ServicesSection> = {
-  title: 'Sections/ServicesSection',
+  title: '🧩 Piezas del Sitio/Secciones de Página/Servicios',
   component: ServicesSection,
   tags: ['autodocs'],
   args: {

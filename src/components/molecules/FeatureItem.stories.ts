@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import FeatureItem from './FeatureItem.vue';
 
 const meta: Meta<typeof FeatureItem> = {
-  title: 'Molecules/FeatureItem',
+  title: '🧩 Piezas del Sitio/Tarjetas/Beneficio',
   component: FeatureItem,
   tags: ['autodocs'],
   args: {

@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/vue3';
 import ContactInfoItem from './ContactInfoItem.vue';
 
 const meta: Meta<typeof ContactInfoItem> = {
-  title: 'Molecules/ContactInfoItem',
+  title: '🧩 Piezas del Sitio/Formularios/Dato de Contacto',
   component: ContactInfoItem,
   tags: ['autodocs'],
   args: {
